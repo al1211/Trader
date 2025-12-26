@@ -8,7 +8,7 @@ const Header = () => {
       
      
       <div className="text-xl font-bold text-blue-500">
-        SpikiTech
+        AmtTrader
       </div>
 
      
